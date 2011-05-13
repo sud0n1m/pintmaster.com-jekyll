@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Apartments in Houston
+wordpress_id: 44
+wordpress_url: http://www.pintmaster.com/wordpress/20050115/apartments-in-houston/
+---
+I looked around today at a couple of apartments with Veronique and found a verrry interesting website -<a href="http://www.apartmentratings.com/rate?a=vccbc&state=TX&city=Houston&name=77056&sort=rate&order=2">Apartmentratings.com</a> We had had a lot of crime in the apartment building and decided that when our lease is up we are going to move out. We checked out the place next door which looks like it has more secure access to the building. We asked the guy upfront what the crime is like there and he outright lied to us and said there was none. Their review on apartmentratings.com paints a very different picture. We are leaning towards <a href="http://www.apartmentguide.com/Property/property.asp?wsv_psPropertyID=375&wsv_qsSessionID=253225363&wsv_qsListType=1&wsv_qsPartner=-1&wsv_qsGeoKey=1,44,90&wsv_qsKeyword=montecito&wsv_qsRegisteredFlag=0&wsv_qsBrowseStatus=0&wsv_qsSearchStatus=1&wsv_qsReferringURL=&wsv_qsSCartStatus=0&wsv_qsLowPrice=&wsv_qsHighPrice=&wsv_qsBR=0,1,2,3,4&wsv_qsTerm=3&wsv_qsAdvancedSearch=&wsv_qsNoAreas=false&wsv_qsSFlg=&wsv_PropertyNameSearch=1">Montecito</a> but havent seen it yet. It looks like what we need - without the crime, and hopefully without shoddy construction. Veronique likes 3000 sage, but I am very wary of their construction.

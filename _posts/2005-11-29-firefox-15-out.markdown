@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Firefox 1.5 Out
+wordpress_id: 95
+wordpress_url: http://www.pintmaster.com/wordpress/20051129/firefox-15-out/
+---
+Firefox 1.5 has been released. Download it now! <!--adsense-->

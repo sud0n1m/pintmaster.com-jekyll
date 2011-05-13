@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Auto Draft
+wordpress_id: 415
+wordpress_url: http://pintmaster.com/?p=415
+categories: []
+
+tags: []
+
+---
+

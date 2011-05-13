@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Ubuntu Linux 5.04
+wordpress_id: 77
+wordpress_url: http://www.pintmaster.com/wordpress/20050918/ubuntu-linux-504/
+---
+Im trying out Ubuntu Linux 5.04 at the moment as a reaction to Windows requiring verification to download updates and also as a reaction to the low quality windows ISOs there are on the net at the moment where everyone is trying to add this, or remove that, thus causing instability in the OS and irregular behavior.

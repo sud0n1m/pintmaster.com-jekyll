@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: Why does the contest specifiy Dual Boot
+wordpress_id: 113
+wordpress_url: http://www.pintmaster.com/wordpress/20060123/why-does-the-contest-specifiy-dual-boot/
+---
+A bunch of people have been asking "Why Dual Boot?". The answer is pretty simple. When I came up with the contest, I wanted to have a goal that even the enthusiast could achieve. Most of the other alternatives prior to the intel mac- VMWare, Virtual PC are all using Virtualization. There has been a lot of talk about the Duo Core being able to do Virtualization at near native speed. I think it is unrealistic for an individual to write this software. I agree that running Windows XP virtually in Mac OS X at near native speed is the ideal way to accomplish the task of working on both operating systems. So given that virtualization is out and with the early success of people getting into the EFI bios, I thought I would focus the contest on incentivizing these people to expand their work. Furthermore my understanding of the functionality of GRUB 2.0 and ELILO was that it should be possible to get those to load as the boot manager on the Intel Mac.
+I hope this clears up the confusion about why this solution was chosen. If you still have trouble understanding, think of it like the Ansari X-Prize which intended to kick-start commercial space flight. They didnt start sending tourists into space, but Spaceship One's successes got Virgin Galactic going. I want to kickstart the Windows on Intel Mac community. Even if this is not the exact method that people will use next year, it is a start to achieving our goals.
