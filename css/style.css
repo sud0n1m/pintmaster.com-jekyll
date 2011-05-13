@@ -1,4 +1,7 @@
-/* @override http://localhost:4000/css/style.css?v=2 */
+/* @override 
+	http://localhost:4000/css/style.css?v=2
+	http://pintmaster.com/css/style.css?v=2
+*/
 
 /* ==== Scroll down to find where to put your styles :) ==== */
 
@@ -91,13 +94,13 @@ a:hover { color: #036; }
 	width: 800px;
 	margin: auto;
 	background-color: #f7f7f7;
-	padding: 10px;
 }
 
 header {
 	font-size: 2em;
 	border-bottom: 2px solid #607890;
 	margin-bottom: 10px;
+	padding: 10px;
 }
 header a{
 	text-decoration: none;
@@ -106,11 +109,19 @@ header a{
 #post h1{
 	font-size: 3em;
 }
+#post {
+	border-bottom: 10px solid #c8d0d8;
+	padding: 10px;
+}
 
+div#disqus_thread{
+	padding: 10px;
+	background-color: #aab1b8;
+}
 
-
-
-
+.index{
+	padding: 10px;
+}
 
 
 
